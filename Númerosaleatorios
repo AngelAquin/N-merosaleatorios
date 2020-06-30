@@ -1,0 +1,13 @@
+int[] numeros = new int[10];
+
+array[posicion] = valor;
+
+numeros[2] = 4;
+
+int aleatorio = (int) Math.random();
+
+
+int aleatorio = (int) (Math.random()*20)+1
+
+for (int x=0;x
+} 
